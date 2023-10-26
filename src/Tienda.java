@@ -12,10 +12,10 @@ public class Tienda{
     }
     public void addcomputador1(){
         Computadoras compu1 = new Computadoras ("pepe",1.000,"core","Mac",500);
-        C.add(compu);
+        C.add(compu1);
     }
     public void addcomputador2(){
         Computadoras compu2 = new Computadoras ("pro",2.000,"itm","Mac",500);
-        C.add(compu);
+        C.add(compu2);
     }
 }
